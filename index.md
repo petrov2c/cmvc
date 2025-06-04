@@ -8,20 +8,19 @@ There are ten stories, each reflecting a different principle of social minimalis
 
 ---
 
-## ✉️ Start here
+## ✉️ Sign up to support
 
-**Want to support the idea?**  
-Leave your email. Nothing happens until 10,000 others have done the same. You won’t hear from us before that.
+If the idea makes sense to you, leave your email. Nothing happens until 10,000 others have done the same. You won’t hear from us until then.
 
-[**→ Add your email (no follow-up)**]
+[**→ Add your email (no follow-up)**]  
+<a name="signup"></a>
 
 ---
 
 ## 🔟 The Principles
 
-Each principle is paired with a story. They aren’t instructions. Just glimpses.
-
-If one feels right, speak about it first—in your own words, in your own way. Only if it lands, share the link.
+Each principle is paired with a story. They aren’t instructions. Just glimpses.  
+If one feels right, speak about it first—in your own words. Only if it lands, share the link.
 
 - [**The right to not perform**](#the-right-to-not-perform)  
 - [**The value of small signals**](#the-value-of-small-signals)  
@@ -36,77 +35,104 @@ If one feels right, speak about it first—in your own words, in your own way. O
 
 ---
 
-### The right to not perform <a name="the-right-to-not-perform"></a>
-Sometimes just being there is enough. No shows, no sparkle, no performance.  
-[Read the story](#) | [Listen](#) | [PDF](#)
+## 🧭 The Principles and Stories
 
-### The value of small signals <a name="the-value-of-small-signals"></a>
-A nod, a gesture, a non-reply that still means something.  
-[Read the story](#) | [Listen](#) | [PDF](#)
-
-### The legitimacy of local <a name="the-legitimacy-of-local"></a>
-What if what’s near you is already enough?  
-[Read the story](#) | [Listen](#) | [PDF](#)
-
-### The benefit of no updates <a name="the-benefit-of-no-updates"></a>
-No news is fine. Maybe the right rhythm is no rhythm at all.  
-[Read the story](#) | [Listen](#) | [PDF](#)
-
-### The clarity of slow timing <a name="the-clarity-of-slow-timing"></a>
-Urgency is often panic in disguise. Take the long way.  
-[Read the story](#) | [Listen](#) | [PDF](#)
-
-### The risk of asking <a name="the-risk-of-asking"></a>
-Inviting someone in isn’t always clean or safe. That’s part of it.  
-[Read the story](#) | [Listen](#) | [PDF](#)
-
-### The decision to disappear <a name="the-decision-to-disappear"></a>
-Sometimes the kindest exit is quiet and permanent.  
-[Read the story](#) | [Listen](#) | [PDF](#)
-
-### The permission to be boring <a name="the-permission-to-be-boring"></a>
-You don’t have to be interesting. You just have to be real.  
-[Read the story](#) | [Listen](#) | [PDF](#)
-
-### The comfort of repetition <a name="the-comfort-of-repetition"></a>
-Doing the same thing again can be a kind of prayer.  
-[Read the story](#) | [Listen](#) | [PDF](#)
-
-### The absence of a hero <a name="the-absence-of-a-hero"></a>
-There’s no central figure. There’s just us, quietly circling.  
-[Read the story](#) | [Listen](#) | [PDF](#)
+Each principle has a short description and links to a story in three formats: read, listen, or share.
 
 ---
 
-## 🌀 What happens after 10,000?
+### The right to not perform <a name="the-right-to-not-perform"></a>  
+You don’t need to be interesting. You don’t need to be productive. This is about showing up as you are.  
+[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
 
-Once we reach 10,000 signups, everyone gets one email. It’ll offer three paths:
+---
+
+### The value of small signals <a name="the-value-of-small-signals"></a>  
+Not everything has to be a big ask or a bold move. Connection often starts with something tiny.  
+[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+
+---
+
+### The legitimacy of local <a name="the-legitimacy-of-local"></a>  
+Start with those who live near enough to share coffee or silence. Local isn’t less—it’s real.  
+[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+
+---
+
+### The benefit of no updates <a name="the-benefit-of-no-updates"></a>  
+You don’t need to stay in touch with everyone. Some connections grow best when they rest.  
+[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+
+---
+
+### The clarity of slow timing <a name="the-clarity-of-slow-timing"></a>  
+Things don’t have to escalate quickly. Trust that slowness doesn’t mean failure.  
+[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+
+---
+
+### The risk of asking <a name="the-risk-of-asking"></a>  
+Invitations can be simple and sincere. Asking is a gift—even if no one says yes.  
+[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+
+---
+
+### The decision to disappear <a name="the-decision-to-disappear"></a>  
+You can leave when you need to. You don’t owe anyone endless availability.  
+[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+
+---
+
+### The permission to be boring <a name="the-permission-to-be-boring"></a>  
+You’re allowed to be ordinary. Comfort and repetition matter more than charm.  
+[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+
+---
+
+### The comfort of repetition <a name="the-comfort-of-repetition"></a>  
+Sameness can be safe. Familiar rhythms are a kind of intimacy too.  
+[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+
+---
+
+### The absence of a hero <a name="the-absence-of-a-hero"></a>  
+No one needs to lead. The project works if no one is the face of it.  
+[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+
+---
+
+## 📜 What happens after 10,000?
+
+Once 10,000 people have signed up, we’ll send a single email. It offers three choices:
 
 1. **Yes, I want to be involved**  
-   You’ll be asked for your location. You’ll be placed in a small circle of 15–20 people. Each group chooses a rep. Those reps form the next level. The project becomes theirs.
+   You’ll share your location to be grouped with others nearby. You’ll form a small circle of 15–20 people. That circle picks a representative. Those reps form another. That’s how the project moves forward—circles inside circles.
 
 2. **Keep me in the loop**  
-   You won’t be in a circle, but you’ll receive occasional updates from the people who are.
+   You won’t join a circle but will get occasional updates from those who did.
 
 3. **Sign me off**  
-   We delete your email. You won’t hear from us again.
+   You’re done. No more emails.
 
-The current site will become an archive. The project continues at *minimumviablecircle.com* under new stewardship. You’ll know where to find it.
-
----
-
-## 👀 Curious?
-
-<small>
-
-Still unsure about sharing your email?  
-This second form sends you a one-time email with the current signup count.  
-It’s a quiet nudge for the curious.
-
-[**→ Get the count (and join)**]
-
-</small>
+The original site becomes an archive. The project continues at [MinimumViableCircle.com](https://minimumviablecircle.com)—in the hands of those who chose to carry it forward.
 
 ---
 
-*Some things don’t need to scale. They just need to mean something.*
+## 🪶 Share, quietly
+
+If something here resonates, don’t rush to post or forward.
+
+Speak about it in your own words. Let it breathe. If someone leans in, share a story. Or this site. Let it stay personal.
+
+> Some things don’t need to scale. They just need to mean something.
+
+---
+
+## 🫣 Still curious?
+
+If curiosity wins, there’s another form. It’ll tell you how many people have already signed up. Just once.
+
+[**→ Get the count**]  
+<a name="countform"></a>
+
+---
