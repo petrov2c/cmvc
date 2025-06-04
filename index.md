@@ -8,11 +8,10 @@ There are ten stories, each reflecting a different principle of social minimalis
 
 ---
 
-## ✉️ Support the idea
+## ✉️ Start here
 
-If the idea makes sense to you, you can quietly support it by leaving your email.
-
-Nothing happens until 10,000 people have done the same.
+**Want to support the idea?**  
+Leave your email. Nothing happens until 10,000 others have done the same. You won’t hear from us before that.
 
 [**→ Add your email (no follow-up)**]
 
@@ -38,63 +37,73 @@ If one feels right, speak about it first—in your own words, in your own way. O
 ---
 
 ### The right to not perform <a name="the-right-to-not-perform"></a>
+Sometimes just being there is enough. No shows, no sparkle, no performance.  
 [Read the story](#) | [Listen](#) | [PDF](#)
 
 ### The value of small signals <a name="the-value-of-small-signals"></a>
+A nod, a gesture, a non-reply that still means something.  
 [Read the story](#) | [Listen](#) | [PDF](#)
 
 ### The legitimacy of local <a name="the-legitimacy-of-local"></a>
+What if what’s near you is already enough?  
 [Read the story](#) | [Listen](#) | [PDF](#)
 
 ### The benefit of no updates <a name="the-benefit-of-no-updates"></a>
+No news is fine. Maybe the right rhythm is no rhythm at all.  
 [Read the story](#) | [Listen](#) | [PDF](#)
 
 ### The clarity of slow timing <a name="the-clarity-of-slow-timing"></a>
+Urgency is often panic in disguise. Take the long way.  
 [Read the story](#) | [Listen](#) | [PDF](#)
 
 ### The risk of asking <a name="the-risk-of-asking"></a>
+Inviting someone in isn’t always clean or safe. That’s part of it.  
 [Read the story](#) | [Listen](#) | [PDF](#)
 
 ### The decision to disappear <a name="the-decision-to-disappear"></a>
+Sometimes the kindest exit is quiet and permanent.  
 [Read the story](#) | [Listen](#) | [PDF](#)
 
 ### The permission to be boring <a name="the-permission-to-be-boring"></a>
+You don’t have to be interesting. You just have to be real.  
 [Read the story](#) | [Listen](#) | [PDF](#)
 
 ### The comfort of repetition <a name="the-comfort-of-repetition"></a>
+Doing the same thing again can be a kind of prayer.  
 [Read the story](#) | [Listen](#) | [PDF](#)
 
 ### The absence of a hero <a name="the-absence-of-a-hero"></a>
+There’s no central figure. There’s just us, quietly circling.  
 [Read the story](#) | [Listen](#) | [PDF](#)
 
 ---
 
-## 🔁 After 10,000
+## 🌀 What happens after 10,000?
 
-Once 10,000 people have quietly signed up, one email will be sent. In it, you'll choose how (or if) you want to continue:
+Once we reach 10,000 signups, everyone gets one email. It’ll offer three paths:
 
 1. **Yes, I want to be involved**  
-   You’ll be asked for your location so we can group you with others nearby. These circles will self-organize into a gentle network. One person from each group may act as a connector to the next level. If you choose this path, you’ll receive the keys.
+   You’ll be asked for your location. You’ll be placed in a small circle of 15–20 people. Each group chooses a rep. Those reps form the next level. The project becomes theirs.
 
 2. **Keep me in the loop**  
-   You’ll receive occasional updates from those participating more actively.
+   You won’t be in a circle, but you’ll receive occasional updates from the people who are.
 
 3. **Sign me off**  
-   You’ll be removed. No further emails.
+   We delete your email. You won’t hear from us again.
 
-The original site becomes an archive. A new one—*minimumviablecircle.com*—will take over. Not run by us. Run by whoever steps forward.
+The current site will become an archive. The project continues at *minimumviablecircle.com* under new stewardship. You’ll know where to find it.
 
 ---
 
+## 👀 Curious?
+
 <small>
 
-## 🪞 Just curious?
+Still unsure about sharing your email?  
+This second form sends you a one-time email with the current signup count.  
+It’s a quiet nudge for the curious.
 
-If you're not ready to leave your email, but you're wondering how far the idea has gone—there’s one more form.
-
-It’ll email you the current count. Just once.
-
-[**→ Get the count**]
+[**→ Get the count (and join)**]
 
 </small>
 
