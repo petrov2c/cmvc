@@ -1,152 +1,78 @@
-The Social Minimalism Experiment
+# Minimum Viable Circle
 
-This is not a movement.
-Not a philosophy.
-Not another voice asking you to perform better at being human.
+*A quiet experiment in not-performing.*
 
-It’s an experiment.
+Maybe you’ve felt it too—that subtle exhaustion from always optimizing your social life, always managing, always performing. Maybe you’re done. This project begins with a hunch: that you’re not the only one.
 
-A quiet response to something many feel but few name—the hollowing out of real connection. Ten principles of social minimalism. Ten stories of ordinary life nudged in quieter directions. No demands. No promises. Just an invitation.
+There are ten stories, each reflecting a different principle of social minimalism: quiet presence, local resonance, the right to be boring. You can read them, listen to them, or share them—if something resonates.
 
-If it resonates, you can sign up. When 10,000 people have done so, the project hands itself over.
+---
 
-⸻
+## ✋ Why this exists
 
-Principles and Stories
+This isn’t a movement. It’s a lighttrap. A small invitation for those ready to show up gently, with less.
 
-Each principle below links to a story (PDF and podcast) that illustrates it. If one lands with you—share it.
+If you’d like to support the idea, leave your email. Nothing happens until 10,000 others have done the same. There are two sign-up forms below:
+- The first simply adds you to the count
+- The second sends you a one-time email with the current number
 
-The Right to Not Perform {#principle-1}
+That’s it. No other emails. No nudging. No noise.
 
-You don’t have to prove your worth to be included. No need to present a version of yourself. You belong without performance.
+---
 
-→ Read the story (PDF)
-→ Listen to the episode
+## 🔟 The Principles
 
-⸻
+Each principle is paired with a story. They aren’t instructions. Just glimpses.
 
-Silence is Participation {#principle-2}
+- **The right to not perform**
+- **The value of small signals**
+- **The legitimacy of local**
+- **The benefit of no updates**
+- **The clarity of slow timing**
+- **The risk of asking**
+- **The decision to disappear**
+- **The permission to be boring**
+- **The comfort of repetition**
+- **The absence of a hero**
 
-Not speaking doesn’t mean you aren’t present. Quiet can be a form of commitment.
+You can read or listen to them in any order. If one feels right, share it with someone—but only in your own words. If they’re interested, then send them here.
 
-→ Read the story (PDF)
-→ Listen to the episode
+---
 
-⸻
+## ✉️ What happens after 10,000?
 
-Letting Things Be Temporary {#principle-3}
+Once we reach 10,000 signups, everyone will get one email. It’ll include three choices:
 
-Some connections aren’t meant to last forever—and that doesn’t make them less real.
+1. **Yes, I want to be involved**  
+   You’ll be asked for your location so we can group you with people nearby. From there, you’ll be part of a small circle of 15–20 people who choose one representative. Those representatives form the next circle. From there, the project is theirs.
 
-→ Read the story (PDF)
-→ Listen to the episode
+2. **Keep me in the loop**  
+   You won’t be active in a circle, but you’ll receive occasional updates from those who are.
 
-⸻
+3. **Sign me off**  
+   You won’t hear from us again.
 
-Not Having to Explain {#principle-4}
+The original site becomes an archive. The new site—*minimumviablecircle.com*—will be handed off to the new stewards. You’ll know where to find it.
 
-You don’t owe an explanation for your way of being here. Your presence is enough.
+---
 
-→ Read the story (PDF)
-→ Listen to the episode
+## ✅ Support it
 
-⸻
+If the idea makes sense to you, share it—but only after speaking it in your own voice.
 
-Being Seen Without Presenting {#principle-5}
+There’s no rush. No sharing goals. Just a question:
+> Who would understand this, too?
 
-No one’s asking for your résumé. You’re not here to impress—just to be.
+---
 
-→ Read the story (PDF)
-→ Listen to the episode
+## 📬 Sign up
 
-⸻
+**Add your email (no follow-up, just adds to the count):**  
+[**→ Signup Form**]
 
-Making Space Without Needing Credit {#principle-6}
+**Want to know how many have signed up?**  
+[**→ Get the number + count email**]
 
-Support doesn’t need applause. Creating space is enough.
+---
 
-→ Read the story (PDF)
-→ Listen to the episode
-
-⸻
-
-Choosing When and How to Engage {#principle-7}
-
-Participation is optional. Choice is sacred.
-
-→ Read the story (PDF)
-→ Listen to the episode
-
-⸻
-
-Trusting People to Show Up {#principle-8}
-
-Assume good intent. Believe care exists, even when you can’t see it.
-
-→ Read the story (PDF)
-→ Listen to the episode
-
-⸻
-
-Keeping Things Small Enough to Hold {#principle-9}
-
-We don’t need to scale everything. Intimacy has value.
-
-→ Read the story (PDF)
-→ Listen to the episode
-
-⸻
-
-Letting Go When the Time Comes {#principle-10}
-
-What we build isn’t ours forever. Pass it on.
-
-→ Read the story (PDF)
-→ Listen to the episode
-
-⸻
-
-Sign Up
-
-If this resonates, add your email.
-We won’t contact you unless 10,000 others do too. No newsletter. No follow-up. Just a threshold.
-
-→ [Sign up quietly here]
-
-⸻
-
-When We Reach 10,000
-
-You’ll receive one email asking:
-	1.	Do you want to participate?
-	•	If yes, you’ll be asked to provide your rough location.
-	•	You’ll be grouped with others nearby (or randomly if you opt out of location).
-	•	Each group chooses a steward. Stewards form a council.
-	•	The project—this site, the podcast, the archive—is handed over to them.
-	2.	Do you want to stay in the loop only?
-	•	You’ll receive updates from the council.
-	3.	Do you want to sign off completely?
-	•	We’ll remove you from everything.
-
-If the project never reaches 10,000, nothing happens. The experiment stays still. That’s part of the deal.
-
-⸻
-
-Share the Project
-
-If this struck something in you, share it. Send a story. Send this page.
-That’s all.
-
-⸻
-
-Optional: See How Many Have Signed Up
-
-Want to see how many are in already?
-
-→ [Sign up here to get a one-time number-only email]
-
-You’ll only get one email with the current count. That’s it.
-
-⸻
-
-If it matters, it will find its shape.
+*Some things don’t need to scale. They just need to mean something.*
