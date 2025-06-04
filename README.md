@@ -1,44 +1,39 @@
-# The Social Minimalism Experiment
+# Minimum Viable Circle
 
-This is not a movement.  
-Not a philosophy.  
-Not another voice asking you to perform better at being human.
+*A quiet experiment in not-performing.*
 
-It’s an experiment.
+Minimum Viable Circle is a small social experiment exploring how little it takes to feel connected in an overwhelming world.
 
-A quiet response to something many feel but few name—the hollowing out of real connection.  
-Ten principles of social minimalism. Ten stories of ordinary life nudged in quieter directions.  
-No demands. No promises. Just an invitation.
+It begins with ten short stories, each inspired by a principle of social minimalism: quiet presence, local resonance, permission to be boring. These are not calls to action. They’re just reflections. If one sounds like something you’ve needed to hear, you’re invited to pass it on—one-to-one, not one-to-many.
 
-## ✦ What It Is
-A project that explores quieter, smaller ways to connect—through reflection, not performance.
+## 🌱 How it works
 
-Each principle is paired with a story. Each story is shared quietly.  
-If it resonates, readers can sign up. Once 10,000 people have done so, the project hands itself over.
+- Read a story, or the introduction. If something resonates, tell someone in your own words.
+- Leave your email if you want to count toward the 10,000.
+- When that number is reached, you’ll receive one email asking if you want to take part.
+- Those who opt in will shape what happens next. Everyone else won’t hear from us again.
 
-## ✦ What Happens at 10,000
-- All signups receive one email.
-- They choose:
-  - Step forward (and help shape what’s next)
-  - Stay in the loop
-  - Or step out entirely
-- Those who step forward will be batched into circles.
-- Each circle selects one steward.
-- The stewards receive ownership of the site and project direction.
+## 📁 Structure
 
-## ✦ This Repository
-This repo holds the written core of the project:
+- `index.md` — main site layout for GitHub Pages
+- `principles/` — each principle with its story and PDF
+- `podcast/` — scripts and metadata for the audio version (optional)
+- `fr/` — French translations and local materials
 
-- `/principles`: Ten short principles in plain language  
-- `/stories`: A single story illustrating each principle  
-- `/podcast`: Episode scripts or descriptions  
-- `/site`: Website layout & text content  
-- `/signup`: Instructions for email logic & thresholds  
-- `/handover.md`: Protocol for turning the project over
+## ✍️ Contributing
 
-## ✦ To Contribute
-Nothing to contribute—yet.  
-Just read, reflect, and share.
+This isn’t currently accepting code contributions. But if you’d like to help:
+- Read or record a story
+- Translate one into another language
+- Share it—only with someone who might really need it
 
-If you’re here before 10,000: welcome.  
-If you’re here after 10,000: it’s yours now.
+## 🧭 License
+
+This project is released as-is, without commercial intent. The stories and principles are free to read, share, and reflect on.
+
+---
+
+📄 [Français](README.fr.md)
+
+**Minimum Viable Circle**  
+Not everything needs to grow. Some things just need to reach the right person.
