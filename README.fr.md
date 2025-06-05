@@ -1,44 +1,65 @@
-Cercle Minimal Viable
+# Cercle Minimum Viable (CMVM)
 
-Une expérience discrète pour ne pas avoir à se performer.
+*Une expérience silencieuse de non-performance.*
 
-Le Cercle Minimal Viable est une petite expérience sociale qui explore combien il faut peu pour se sentir relié dans un monde saturé.
+CMVM (Cercle Minimum Viable Mille) est une expérience sociale minimaliste, née en France, qui cherche à explorer ce qui se passe lorsque 1 000 personnes résonnent avec un même signal. Ce n’est ni une campagne ni un produit. C’est une invitation douce : lire, ressentir, transmettre.
 
-Tout commence avec dix courts récits, chacun inspiré par un principe de minimalisme social : présence tranquille, résonance locale, permission d’être banal. Ce ne sont pas des appels à l’action, juste des reflets. Si l’un d’eux résonne, vous pouvez le transmettre. Doucement. Personnellement.
+Tout commence avec dix histoires courtes, chacune inspirée d’un principe du minimalisme social : la présence discrète, la résonance locale, le droit d’être ennuyeux. Ce ne sont pas des appels à l’action, mais des motifs. Si quelque chose bouge en vous, partagez-le. En personne. Avec douceur.
 
-⸻
+---
 
-🌱 Comment ça marche
-	•	Lisez un récit, ou l’introduction. Si quelque chose vous parle, parlez-en à quelqu’un.
-	•	Si la personne est curieuse, partagez le lien.
-	•	Si vous souhaitez soutenir l’idée, laissez votre adresse mail. Rien ne se passe tant que 10 000 autres ne font pas de même.
-	•	Quand ce nombre est atteint, vous recevrez un seul message : voulez-vous participer à la suite ?
-	•	Si oui, vous serez invité·e à la phase suivante. Sinon, plus aucun mail ne vous sera envoyé.
+## 🌱 Fonctionnement
 
-⸻
+* Lisez une histoire ou parcourez les principes.
+* Si quelque chose résonne, parlez-en à quelqu’un. Avec vos propres mots.
+* Si la curiosité est là, partagez le lien.
+* Si vous souhaitez soutenir le projet, laissez votre e-mail —éventuellement avec votre localisation, un geste rituel, ou un mot d’intention.
+* Quand 1 000 réponses seront recueillies, vous recevrez un message vous proposant trois chemins :
 
-📁 Structure
-	•	index.md — structure de la page principale (pour GitHub Pages)
-	•	principles/ — chaque principe, avec son récit et ses liens
-	•	podcast/ — (optionnel) scripts et descriptions des épisodes audio
-	•	fr/ — traductions et contenus en français
+  * Rejoindre ou former un cercle en présentiel
+  * Rester informé
+  * Se retirer complètement
 
-⸻
+C’est tout. Pas de marketing. Pas de plateforme. Juste des petits cercles, qui apprennent en marchant, et qui partagent leurs expériences.
 
-✍️ Contribuer
+---
 
-Ce projet ne cherche pas de contributions en code pour le moment. Mais si vous voulez aider :
-	•	Lisez ou enregistrez un récit
-	•	Traduisez un texte dans votre langue
-	•	Partagez-le avec quelqu’un qui pourrait avoir besoin d’un signal plus doux
+## 🔀 Et après ?
 
-⸻
+Si les premiers cercles tiennent, le projet s’ouvrira sous la forme de **CMVX** : une deuxième phase avec 10 000 participants, une infrastructure légère, et une bibliothèque publique de gestes et d’histoires.
 
-🧭 Licence
+On y arrivera si c’est nécessaire. Pour commencer, voyons si le cercle fonctionne.
 
-Ce projet est proposé tel quel, sans objectif commercial. Les récits et les principes sont libres à lire, partager, et méditer.
+---
 
-⸻
+## 📁 Structure du répertoire
 
-Cercle Minimal Viable
-Tout ne doit pas grandir. Certaines choses doivent juste faire sens.
+* `index.md` — Page d’accueil complète (pour GitHub Pages)
+* `principles/` — Chaque principe avec son histoire, PDF, et lien vers podcast
+* `podcast/` — Scripts ou descriptions d’épisodes (facultatif)
+* `fr/` — Matériaux en français
+* `docs/` — Documents internes et feuille de route
+
+---
+
+## ✍️ Contribuer
+
+Ce projet ne cherche pas encore de contributions en code. Mais si vous souhaitez aider :
+
+* Lire ou enregistrer une histoire
+* Traduire une histoire dans votre langue
+* En parler à quelqu’un de proche
+* Proposer de lancer un cercle local
+
+Si ça résonne en vous, vous en faites déjà partie.
+
+---
+
+## 🔭 Licence
+
+Ce projet est offert librement, sans intention commerciale. Partagez-le. Réfléchissez-y. Ne tentez pas d’en faire une start-up.
+
+---
+
+Cercle Minimum Viable
+*Certaines choses n’ont pas besoin de croître. Elles ont juste besoin de faire sens.*
