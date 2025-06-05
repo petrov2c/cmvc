@@ -1,96 +1,120 @@
-CMVM: A Builder-Centric Social Minimalism Experiment
+# CMVM:  Social Minimalism Experiment
 
-Overview
+## Overview
 
-CMVM (Cercle Minimum Viable Moi) reimagines the launch of the Social Minimalism experiment around 1,000 resonant individuals who not only feel the signal—but choose to build with it. Unlike CMVX (10,000-signup passive experiment), CMVM is active, iterative, and collaborative from the start.
+**CMVM** (Cercle Minimum Viable Mille) is a launch-stage experiment designed to seed the emergence of trust-based local and online circles of support. It centers on gathering *1,000 resonant individuals* who feel the signal of social minimalism and are ready to contribute to shaping its future.
 
-⸻
+This is not a campaign, a brand, or a platform. It is a filter. The goal is to identify those willing to co-create a simple, regenerative, people-first framework—starting with their own city, or their own screen.
 
-Stage 1: The First Thousand
+---
 
-Purpose:
+## Stage 1: The First Thousand
 
-To gather and engage 1,000 people who resonate deeply and wish to participate in shaping the next stage of the project.
+### Purpose:
 
-Engagement Structure:
-	•	Optional email form with an open text box:
-	•	Users may add their location, ritual gesture, or offer to support circle-building.
-	•	Participants are encouraged to start conversations, not just share links.
-	•	At 1,000 signups, a message is sent to all with a choice:
-	1.	Observe quietly.
-	2.	Join a test circle (online or offline).
-	3.	Support design of the circle infrastructure.
+To find 1,000 individuals who:
 
-Silent Protocols:
-	•	Ritual gesture (e.g., no phone walks, sunset screens off).
-	•	First story share must be in your own voice, not just a forward.
+* Recognize the value of minimalist, intentional social connection.
+* Are willing to either participate in or support the formation of small, resilient circles.
 
-⸻
+### Participation Flow:
 
-Stage 2: Circle Trials and Trust Infrastructure
+* Visitors are invited to submit their email.
+* Optionally, they may share:
 
-Projected Conversion:
-	•	~10% of initial 1,000 actively participate in weekly circles.
-	•	Circles form online or in cities where critical mass exists.
+  * Their rough **location**.
+  * A **ritual gesture** (a simple signal of stepping out of the noise).
+  * A **note of support or intent** (e.g., to host, facilitate, or help grow).
 
-Circle Design:
-	•	~10 people per circle.
-	•	When growth happens, split and replicate.
-	•	Each circle chooses 1–2 rotating representatives.
+At 1,000 signups, an email goes out with three clear paths:
 
-Steering Layer:
-	•	Representatives meet regularly.
-	•	Discuss circle experiences, surface patterns, make decisions.
-	•	Feedback flows both ways: top-down for strategy; bottom-up for insight.
+1. **Circle Participant**: Join a live group (online or local).
+2. **Observer**: Stay in the loop.
+3. Opt out of the project.
 
-Online Circle Layer:
-	•	For those without local matches.
-	•	Focus on building local capacity, experimentation, and outreach.
+### Cultural Cues:
 
-⸻
+* Don’t repost the story. Tell it in your own voice.
+* Don’t promote. Invite, if you must, with your own resonance.
+* Choose a ritual to mark your intent. A small interruption. Your off-switch.
 
-Stage 3: Readiness for CMVX and Wider Onboarding
+---
 
-Conditional Launch:
-	•	Once CMVM confirms healthy trust dynamics and working circle models…
-	•	CMVX launches as a broader resonance filter (10k email-only signup).
+## Stage 2: Circle Trials
 
-CMVX becomes:
-	•	A map to find or form circles.
-	•	A gentle onboarding gate to participate.
-	•	A library of stories, tools, and testimonials.
+### Emergent Structure:
 
-⸻
+* \~10% of the 1,000 join or form **live circles**.
+* Each circle: \~10 people, meeting regularly.
+* Circles split when they grow, preserving human-scale.
 
-Growth Vision: 100k as a Global Mesh
+### Representative Layer:
 
-Long-Term Target:
-	•	~100,000 signups across urbanized areas globally.
-	•	Circles in major cities with redundancy.
-	•	Balance of offline circles and online facilitation groups.
+* Each circle names **1 or 2 dynamic representatives**.
+* These representatives meet across circles to share feedback, develop resources, and make direction-level decisions.
+* Delegates change. Trust does not.
 
-Circle Qualities:
-	•	Local, bottom-up, resilient.
-	•	Welcoming to new members.
-	•	Able to process feedback and steer autonomously.
+### Online Circles:
 
-Structural Goals:
-	•	Self-replicating infrastructure.
-	•	Transparent governance.
-	•	Human-scale trust maintenance.
+* For those without local density.
+* Focused on growing local presence and helping others do the same.
 
-⸻
+---
 
-Symbolic Naming
-	•	CMVM.fr reflects the project’s French roots and 1,000-person builder focus.
-	•	CMVX.fr remains dormant or symbolic, activated once CMVM matures.
+## Stage 3: Readiness for CMVX
 
-⸻
+Once CMVM proves viability:
 
-Epilogue: The Shape of the Invitation
+* **CMVX** (Cercle Minimum Viable X) launches as the broader, lightly-structured front door.
+* 10,000 people register interest.
+* Email only, no data mining.
 
-Not everyone will stay. Not everyone needs to. Some things don’t scale. But if you see the point of this—not in theory, but in bones—then step in.
+### CMVX is:
 
-Build one circle. Let it split. Let it speak. Let it spread.
+* A **public library** of stories, gestures, and connection principles.
+* A **map** showing active and emerging circles.
+* A **gateway** for onboarding those curious see how it works.
 
-⸻
+---
+
+## Growth Vision: The Hundred Thousand
+
+### Long-Term Goal:
+
+* 100,000 resonant signups distributed across cities and regions.
+* Circles in every major city.
+* Self-replicating local support infrastructures.
+
+### Design Principles:
+
+* Local-first, adaptable, resilient.
+* Light footprint. No bloat. No central gatekeepers.
+* Feedback flows through layers. Decisions stay human-scaled.
+
+### Replication:
+
+* Each new circle replicates structure.
+* Trust stewards are dynamically chosen. Authority dissolves into responsibility.
+
+---
+
+## Symbolism and Naming
+
+* **CMVM.fr**: Where it begins. The seed project, grounded in France.
+* **CMVX.fr**: The signal that follows, scaling only when the base is ready.
+
+---
+
+## Epilogue: The Ask
+
+> If this idea shifted something in you, don’t click. Don’t forward.
+> Say it out loud. To one person. In your own voice.
+>
+> If the signal holds, sign up. Maybe say where you are. Maybe say what you’d give.
+>
+> If we reach 1,000, we build something. Something human. Not perfect. But real.
+
+Let’s begin with one circle.
+Let it split.
+Let it echo.
+Let it grow.
