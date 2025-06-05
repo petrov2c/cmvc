@@ -1,78 +1,61 @@
-# CMVM – Cercle Minimum Viable Mille
-
-A civic experiment in social minimalism.
-
-No brand.  
-No campaign.  
-No algorithm.  
-Just a quiet protocol for trust.
+# Cercle Minimum Viable Mille  
+*A quiet invitation to 1,000 humans.*
 
 ---
 
-## What this is
+## What this is  
+CMVM is a social minimalism experiment:  
+A slow, trust-centered formation of a small network—1,000 people who resonate with a shared signal, and want to see what happens when intention replaces performance.
 
-CMVM is a low-signal, high-trust invitation to connection.
+It’s not a product. Not a movement.  
+Just a circle you can step into—if it calls to you.
 
-1,000 people.  
-10 principles.  
-10 short stories.  
-One question: *what happens when we choose presence over performance?*
-
-This isn’t a platform.  
-There’s nothing to “follow.”  
-If you’re here, someone whispered this your way. That’s enough.
+No algorithms. No urgency. No public feeds.
 
 ---
 
-## How it works
+## How it works  
 
-The process is simple—and deliberately slow.
+**Stage 1** begins when 1,000 people sign up.  
+Each person receives a quiet follow-up with simple choices:
+- Stay in the loop.
+- Join or start a local circle.
+- Or opt out completely. No strings.
 
-- Someone reads or hears a story.
-- If it resonates, they whisper it to someone else.
-- If it echoes, that person gets this link.
-- If it lands, they can leave their email.
-
-When 1,000 people are gathered, one message goes out. It offers three paths:
-
-1. Join or form a live circle.
-2. Stay quietly in the loop.
-3. Opt out entirely.
-
-No likes.  
-No gamification.  
-No urgency.  
-Just trust, offered gently.
+**The first step is simple.**  
+Submit your email. That’s it.  
+Optionally, you can also add:
+- A word or phrase that matters to you.  
+- A location (just city-level, or whatever feels right).  
+- A small gesture or note of intent.
 
 ---
 
-## The materials
+## Start here  
+You can read one story or all ten. Each one lives beside a principle of social minimalism.  
+They're meant to echo something real.
 
-These are living documents. Read what calls you.
+- [Milo — The Hollow Room](link)  
+- [Jenna — The Choice to Show Up](link)  
+- [Elias — Roots in the Small](link)  
+- [Noor — The Currency of Trust](link)  
+*(...and more)*
 
-- 📘 **[The Book]** – 10 principles and 10 narrative stories
-- 🧭 **[The Roadmap]** – from 1,000 to 10,000 and beyond
-- 🔍 **[About This Project]** – background, context, and intentions
-- 🌐 **[GitHub]** – track changes, suggest updates, offer translations
-
----
-
-## Translation
-
-This site is designed to grow through language, not just scale.
-
-🇫🇷 [Lire en français](#)
-
-Interested in helping translate? [Let us know](#).
+Or start with the [Ten Principles →](link)
 
 ---
 
-## The invitation
+## This isn’t for everyone  
+If you’re looking for speed, scale, or spectacle—this probably won’t make sense.  
+If you’re drawn to the quiet, to small, slow connection—welcome.
 
-If this made something in you pause—stay with that.
+> “Come if it calls to you.  
+> Bring what’s alive for you.  
+> Trust that the real is enough.”
 
-There’s nothing else you need to do.  
-But if the signal feels true, send it softly onward.
+---
 
-This is a protocol that spreads through trust.  
-One conversation at a time.
+## [ Submit your email ](link-to-form)  
+*No spam. No drip. Just a quiet signal when the circle forms.*
+
+Optional gesture / location / note: [link-to-secondary-form]
