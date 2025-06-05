@@ -4,7 +4,7 @@
 
 Maybe you’ve felt it too—that subtle exhaustion from always optimizing your social life, always managing, always performing. Maybe you’re done. This project begins with a hunch: that you’re not the only one.
 
-There are ten stories, each reflecting a different principle of social minimalism: quiet presence, local resonance, the right to be boring. You can read them, listen to them, or share them—if something resonates.
+There are ten stories, each reflecting a different principle of social minimalism: presence, intentionality, and enough quiet to feel what's real. You can read them, listen to them, or share them—if something resonates.
 
 ---
 
@@ -12,117 +12,125 @@ There are ten stories, each reflecting a different principle of social minimalis
 
 If the idea makes sense to you, leave your email. Nothing happens until 10,000 others have done the same. You won’t hear from us until then.
 
-[**→ Add your email (no follow-up)**]  
-<a name="signup"></a>
+[**→ Add your email (no follow-up)**]
 
 ---
 
 ## 🔟 The Principles
 
-Each principle is paired with a story. They aren’t instructions. Just glimpses.  
-If one feels right, speak about it first—in your own words. Only if it lands, share the link.
+These are not rules. They’re just reminders—fragments of truth carried in each story.
 
-- [**The right to not perform**](#the-right-to-not-perform)  
-- [**The value of small signals**](#the-value-of-small-signals)  
-- [**The legitimacy of local**](#the-legitimacy-of-local)  
-- [**The benefit of no updates**](#the-benefit-of-no-updates)  
-- [**The clarity of slow timing**](#the-clarity-of-slow-timing)  
-- [**The risk of asking**](#the-risk-of-asking)  
-- [**The decision to disappear**](#the-decision-to-disappear)  
-- [**The permission to be boring**](#the-permission-to-be-boring)  
-- [**The comfort of repetition**](#the-comfort-of-repetition)  
-- [**The absence of a hero**](#the-absence-of-a-hero)
-
----
-
-## 🧭 The Principles and Stories
-
-Each principle has a short description and links to a story in three formats: read, listen, or share.
+- [**Not all connections are nourishing**](#not-all-connections-are-nourishing)
+- [**Intentional doesn’t mean antisocial**](#intentional-doesnt-mean-antisocial)
+- [**Fewer relationships, deeper roots**](#fewer-relationships-deeper-roots)
+- [**Trust is built in intensity, not frequency**](#trust-is-built-in-intensity)
+- [**Discomfort can be a door**](#discomfort-can-be-a-door)
+- [**We don’t owe the algorithm a show**](#we-dont-owe-the-algorithm)
+- [**The small is not insignificant**](#the-small-is-not-insignificant)
+- [**Shallow connection has a cost**](#shallow-connection-has-a-cost)
+- [**It takes courage to step back**](#it-takes-courage-to-step-back)
+- [**Freedom is found in choosing less**](#freedom-is-found-in-less)
 
 ---
 
-### The right to not perform <a name="the-right-to-not-perform"></a>  
-You don’t need to be interesting. You don’t need to be productive. This is about showing up as you are.  
-[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+## 🧭 Stories and Reflections
+
+Each principle is brought to life through one story. Read, listen, or download. Pass it on—if it lands.
 
 ---
 
-### The value of small signals <a name="the-value-of-small-signals"></a>  
-Not everything has to be a big ask or a bold move. Connection often starts with something tiny.  
-[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+### Not all connections are nourishing <a name="not-all-connections-are-nourishing"></a>  
+**Milo — The Hollow Room**  
+When connection becomes compulsion, even the crowd can feel lonely.  
+[Read the story](stories/the-hollow-room.md) | [Listen](#) | [PDF](#)
 
 ---
 
-### The legitimacy of local <a name="the-legitimacy-of-local"></a>  
-Start with those who live near enough to share coffee or silence. Local isn’t less—it’s real.  
-[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+### Intentional doesn’t mean antisocial <a name="intentional-doesnt-mean-antisocial"></a>  
+**Noor & Milo — Circles in the Quiet**  
+Pulling away doesn’t mean you don’t care. It means you want it to mean something.  
+[Read the story](#) | [Listen](#) | [PDF](#)
 
 ---
 
-### The benefit of no updates <a name="the-benefit-of-no-updates"></a>  
-You don’t need to stay in touch with everyone. Some connections grow best when they rest.  
-[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+### Fewer relationships, deeper roots <a name="fewer-relationships-deeper-roots"></a>  
+**Elias — Fewer, Deeper**  
+A shift from many friends to real ones. Not loud. Not always visible. Just more.  
+[Read the story](#) | [Listen](#) | [PDF](#)
 
 ---
 
-### The clarity of slow timing <a name="the-clarity-of-slow-timing"></a>  
-Things don’t have to escalate quickly. Trust that slowness doesn’t mean failure.  
-[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+### Trust is built in intensity, not frequency <a name="trust-is-built-in-intensity"></a>  
+**Noor — The Currency of Trust**  
+Sometimes the most real moments happen in one conversation.  
+[Read the story](#) | [Listen](#) | [PDF](#)
 
 ---
 
-### The risk of asking <a name="the-risk-of-asking"></a>  
-Invitations can be simple and sincere. Asking is a gift—even if no one says yes.  
-[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+### Discomfort can be a door <a name="discomfort-can-be-a-door"></a>  
+**Ren — Friction’s Gift**  
+Tension isn’t always a threat. It’s sometimes how the real thing shows up.  
+[Read the story](#) | [Listen](#) | [PDF](#)
 
 ---
 
-### The decision to disappear <a name="the-decision-to-disappear"></a>  
-You can leave when you need to. You don’t owe anyone endless availability.  
-[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+### We don’t owe the algorithm a show <a name="we-dont-owe-the-algorithm"></a>  
+**Alex — The Last Post**  
+What happens when you stop being a brand and start being a person again.  
+[Read the story](#) | [Listen](#) | [PDF](#)
 
 ---
 
-### The permission to be boring <a name="the-permission-to-be-boring"></a>  
-You’re allowed to be ordinary. Comfort and repetition matter more than charm.  
-[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+### The small is not insignificant <a name="the-small-is-not-insignificant"></a>  
+**Hana — The Power of Small**  
+A single gesture can change the temperature of a whole room.  
+[Read the story](#) | [Listen](#) | [PDF](#)
 
 ---
 
-### The comfort of repetition <a name="the-comfort-of-repetition"></a>  
-Sameness can be safe. Familiar rhythms are a kind of intimacy too.  
-[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+### Shallow connection has a cost <a name="shallow-connection-has-a-cost"></a>  
+**Matteo — The Cost of Noise**  
+More doesn’t mean deeper. Sometimes it means emptier.  
+[Read the story](#) | [Listen](#) | [PDF](#)
 
 ---
 
-### The absence of a hero <a name="the-absence-of-a-hero"></a>  
-No one needs to lead. The project works if no one is the face of it.  
-[Read the story](#) | [Listen](#) | [PDF](#) | [Support this](#signup)
+### It takes courage to step back <a name="it-takes-courage-to-step-back"></a>  
+**Veda — The Courage to Withdraw**  
+Pulling away isn’t retreat—it’s return.  
+[Read the story](#) | [Listen](#) | [PDF](#)
+
+---
+
+### Freedom is found in choosing less <a name="freedom-is-found-in-less"></a>  
+**Maya — The Freedom to Be**  
+Less input, more truth. Less effort, more self.  
+[Read the story](#) | [Listen](#) | [PDF](#)
 
 ---
 
 ## 📜 What happens after 10,000?
 
-Once 10,000 people have signed up, we’ll send a single email. It offers three choices:
+Once we reach 10,000 signups, everyone will get one email. It’ll include three choices:
 
 1. **Yes, I want to be involved**  
-   You’ll share your location to be grouped with others nearby. You’ll form a small circle of 15–20 people. That circle picks a representative. Those reps form another. That’s how the project moves forward—circles inside circles.
+   You’ll be asked for your location so we can group you with people nearby. From there, you’ll be part of a small circle of 15–20 people who choose one representative. Those representatives form the next circle. From there, the project is theirs.
 
 2. **Keep me in the loop**  
-   You won’t join a circle but will get occasional updates from those who did.
+   You won’t be active in a circle, but you’ll receive occasional updates from those who are.
 
 3. **Sign me off**  
-   You’re done. No more emails.
+   You won’t hear from us again.
 
-The original site becomes an archive. The project continues at [MinimumViableCircle.com](https://minimumviablecircle.com)—in the hands of those who chose to carry it forward.
+The original site becomes an archive. From there, we hope the stewards will find their way—toward helping more people connect to their own minimum viable circle, using this website or building on top of it elsewhere.
 
 ---
 
 ## 🪶 Share, quietly
 
-If something here resonates, don’t rush to post or forward.
+If something here resonates, don’t forward the link right away.
 
-Speak about it in your own words. Let it breathe. If someone leans in, share a story. Or this site. Let it stay personal.
+Instead, talk about the idea in your own words. If someone leans in—then share a story, or this site. Let it stay personal.
 
 > Some things don’t need to scale. They just need to mean something.
 
@@ -130,9 +138,6 @@ Speak about it in your own words. Let it breathe. If someone leans in, share a s
 
 ## 🫣 Still curious?
 
-If curiosity wins, there’s another form. It’ll tell you how many people have already signed up. Just once.
+If you’d like to know how many people have signed up so far, this form will tell you. Just once.
 
-[**→ Get the count**]  
-<a name="countform"></a>
-
----
+[**→ Get the count**]
