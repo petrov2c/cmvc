@@ -1,70 +1,77 @@
-# CMVM  
-*Cercle Minimum Viable Mille*
 
-A quiet invitation for 1,000 people to tune into the same signal—  
-and notice what happens when trust grows in a slow, public way.
+⸻
 
-No FOMO. No funnels. No leaderboard.  
-Not a movement. Not a product.  
-Just a murmur.
+layout: default
+title: Minimum Viable Circle
 
----
+Minimum Viable Circle
 
-## Why this?  
+A quiet experiment in not-performing.
 
-The world is loud. Too loud.  
-This is a space for listening again—to yourself, to others, to whatever’s been trying to get through without a pitch deck.
+Minimum Viable Circle is a small social experiment exploring how little it takes to feel connected in an overwhelming world.
 
-Social minimalism is not absence.  
-It’s presence—with intention, and fewer tabs open.
+It begins with ten short stories, each inspired by a principle of social minimalism: quiet presence, local resonance, the right to be boring. These aren’t calls to action—they’re just reflections. If one resonates, you can pass it on. Gently. Personally.
 
-You don’t need to be sure. You just need to feel something.
+There’s no algorithm. No feed. No notifications.
 
----
+If something about this feels familiar, you’re invited to take a step out of the stream—just long enough to remember you can.
 
-## What happens next  
+⸻
 
-1. **Start with resonance**  
-   Read a story. See what catches in your chest.
+✉️ Sign up
 
-2. **Opt in, if it calls to you**  
-   One email field. Quiet by default.  
-   Optional: leave a note, a gesture, a location. If it helps you mean it.
+Want to be part of the experiment?
 
-3. **Wait for 1,000**  
-   When the first circle forms, you choose:  
-   → Join a local thread  
-   → Stay in the current  
-   → Step back, no pressure
+<form name="signup" method="POST" data-netlify="true">
+  <input type="email" name="email" placeholder="your@email.com" required>
+  <button type="submit">Count me in</button>
+</form>
 
----
 
-## What this is not  
+No spam. No follow-ups. Just one email if the threshold is reached.
 
-- A network  
-- A brand  
-- A game  
-- A funnel  
-- A fix
+⸻
 
-## What this is  
+🌱 How it works
+	1.	Read a story. If it stays with you, share it.
+	2.	If someone you know would resonate, send them the link.
+	3.	If you want to support the project, add your email below. That’s it.
 
-- A small trust experiment  
-- A handful of principles  
-- Ten true-ish stories  
-- A gentle disruption  
-- A beginning
+No emails are sent until we reach 1,000 signups. When that happens, you’ll get one message asking:
 
----
+Do you want to get involved?
 
-## Step in  
+If yes, you’ll be invited to join a local or online circle.
+If no, that’s it. You won’t hear from us again.
 
-[Read the Principles →]  
-[Start with a Story →]  
-[Join the Circle → Email Form]  
+⸻
 
----
+🎧 Podcast (Coming Soon)
 
-> “Come if it calls to you.  
-> Bring what’s alive for you.  
-> Trust that the real is enough.”
+A quiet companion in your pocket. Same stories, just spoken.
+
+English version will launch with the site. French version will follow.
+
+⸻
+
+🔍 Want to know how many people have signed up?
+
+Just curious?
+
+<form name="curious-signup" method="POST" data-netlify="true">
+  <input type="email" name="email" placeholder="your@email.com" required>
+  <button type="submit">Tell me the number</button>
+</form>
+
+
+You’ll receive one email with the current count. That’s all. You can unsubscribe or opt out at any point.
+
+⸻
+
+🧭 License
+
+This project is offered as-is, without commercial intent. The stories and ideas are free to read, share, and reflect on.
+
+⸻
+
+Some things don’t need to scale. They just need to resonate out.
